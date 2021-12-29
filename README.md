@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 <h3 align="center">On a Journey from Newbie to Pro!!</h3>
 
-<p align="left"> <a href="https://twitter.com/ashishyadav0793" target="blank"><img src="https://img.shields.io/twitter/follow/ashishyadav0793?logo=twitter&style=for-the-badge" alt="ashishyadav0793" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/ashishyadav0793" target="blank"><img src="https://img.shields.io/twitter/follow/ashishyadav0793?logo=twitter&style=for-the-badge" alt="ashishyadav0793" /></a> </p> -->
 
 - 🌱 I’m currently learning **Javascript , python**
 
@@ -27,8 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish12501&show_icons=true&locale=en&layout=compact" alt="ashish12501" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish12501&show_icons=true&locale=en" alt="ashish12501" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish12501&show_icons=true&locale=en" alt="ashish12501" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish12501&" alt="ashish12501" /></p>
 
-
+ -->
