@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Yadav</h1>
 <h3 align="center">On a Journey from Newbie to Pro!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish12501" alt="ashish12501" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ashishyadav0793" target="blank"><img src="https://img.shields.io/twitter/follow/ashishyadav0793?logo=twitter&style=for-the-badge" alt="ashishyadav0793" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript , python**
