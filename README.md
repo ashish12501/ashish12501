@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://aashishkumaryadav.blogspot.com/](http://aashishkumaryadav.blogspot.com/)
 
-- 💬 Ask me about **html 5, CSS 3, C , C++ , DSA**
+- 💬 Ask me about **html 5, CSS 3, Javascript, React.js, Firebase C , C++ , DSA**
 
 - 📫 How to reach me **ay079396@gmail.com**
 
