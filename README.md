@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJS , Express**
 
-- 📝 I regularly write articles on [https://ashishcodes.hashnode.dev/](https://ashishcodes.hashnode.dev/))
+- 📝 I regularly write articles on [https://ashishcodes.hashnode.dev/](https://ashishcodes.hashnode.dev/)
 
-- 💬 Ask me about **html 5, CSS 3,https://ashishcodes.hashnode.dev/ Javascript, React.js, Firebase C , C++ , DSA**
+- 💬 Ask me about **html 5, CSS 3, Javascript, React.js, Firebase C , C++ , DSA**
 
 - 📫 How to reach me **ay079396@gmail.com**
 
