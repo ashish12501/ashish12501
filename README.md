@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for fulltime role.<br>📝 Regularly write blogs on https://ashishcodes.hashnode.dev/<br>👯 Find more about me on https://ashishcodes.hashnode.dev/<br>💬 Write me at ay079396@gmail.com<br>🛠️ Currently working on: https://geek-grid.web.app/
+🔭 I’m currently looking for fulltime role.<br>📝 Regularly write blogs on: https://ashishcodes.hashnode.dev/<br>👯 Find more about me on: https://ashishcodes.hashnode.dev/<br>💬 Write me at: ay079396@gmail.com<br>🛠️ Currently working on: https://geek-grid.web.app/
 
 
 ## 🌐 Socials:
