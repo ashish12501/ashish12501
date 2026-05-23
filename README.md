@@ -1,20 +1,99 @@
-# 💫 About Me:
-🔭 I’m currently looking for fulltime role.<br>📝 Regularly write blogs on: https://ashishcodes.hashnode.dev/<br>👯 Find more about me on: https://ashishcodes.hashnode.dev/<br>💬 Write me at: ay079396@gmail.com<br>🛠️ Currently working on: https://geek-grid.web.app/
+<div align="center">
 
+```
+ █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
+██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║
+███████║███████╗███████║██║███████╗███████║
+██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║
+██║  ██║███████║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_yadav__07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-yadav-242ba8209) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AshishYadav0793) 
+### Software Engineer · Full Stack · React & React Native
+**Lucknow, India** · Open to SDE I / Full Stack / React roles across India
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-yadav-242ba8209)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ashishcodes.hashnode.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshishYadav0793)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay079396@gmail.com)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashish12501&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish12501&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashish12501&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashish12501&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+I'm a **Software Engineer with ~2 years of industry experience**, focused on building performant, scalable web and mobile products. Previously at **Revspire Technologies, Bengaluru**, where I helped engineer an enterprise SaaS Revenue Enablement Platform from the ground up.
+
+- 🔭 &nbsp;Actively looking for **SDE I / React / Full Stack roles** at product-based & SaaS companies
+- 📱 &nbsp;Currently building a personal **Expo Router** app with Clerk Auth, NativeWind & custom theming
+- 🎙️ &nbsp;Core Member — **Lucknow FOSS Community** · Co-Lead — **GDSC BBDNITM**
+- 🎓 &nbsp;B.Tech, Computer Science — **BBDNITM Lucknow** (2020–2024)
+- ✍️ &nbsp;Write about React, React Native, and the JS ecosystem at [ashishcodes.hashnode.dev](https://ashishcodes.hashnode.dev/)
+- 📬 &nbsp;Reach me at **ay079396@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish12501&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish12501&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏗️ What I've Built
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Revenue Enablement Platform** | React, Node.js, MySQL, WebSockets, WebRTC (Mediasoup) | Enterprise SaaS · Real-time collaboration · Video infrastructure |
+| **Expo Router App** | React Native, Expo Router, Clerk Auth, NativeWind | Custom theming · Tab navigation · Auth flows |
+
+---
+
+## 🤝 Community
+
+- 🐧 &nbsp;**Lucknow FOSS Community** — Core Member, promoting open-source culture in tier-2 India
+- 🚀 &nbsp;**Google Developer Student Clubs (GDSC)** — Co-Lead at BBDNITM Lucknow
+
+---
+
+<div align="center">
+
+*Building things that ship. Open to collaborate, hire, or just talk tech.*
+
+[![](https://visitcount.itsvg.in/api?id=ashish12501&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
