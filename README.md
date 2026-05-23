@@ -15,7 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-yadav-242ba8209)
 [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ashishcodes.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshishYadav0793)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay079396@gmail.com)
+[![Gmail](https://img.shields.io/badge/ay079396-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay079396@gmail.com)
+[![Gmail](https://img.shields.io/badge/ashish.yadav.sde-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.yadav.sde@gmail.com)
 
 </div>
 
@@ -27,10 +28,10 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 
 - 🔭 &nbsp;Actively looking for **SDE I / React / Full Stack roles** at product-based & SaaS companies
 - 📱 &nbsp;Currently building a personal **Expo Router** app with Clerk Auth, NativeWind & custom theming
-- 🎙️ &nbsp;Core Member — **Lucknow FOSS Community** · Co-Lead — **GDSC BBDNITM**
-- 🎓 &nbsp;B.Tech, Computer Science — **BBDNITM Lucknow** (2020–2024)
+- 🎙️ &nbsp;Core Member — **FOSS United Lucknow** · Ex Co-Lead — **Google DSC BBDNIIT**
+- 🎓 &nbsp;B.Tech, Computer Science — **BBDNIIT Lucknow** (2020–2024)
 - ✍️ &nbsp;Write about React, React Native, and the JS ecosystem at [ashishcodes.hashnode.dev](https://ashishcodes.hashnode.dev/)
-- 📬 &nbsp;Reach me at **ay079396@gmail.com**
+- 📬 &nbsp;Reach me at **ay079396@gmail.com** · **ashish.yadav.sde@gmail.com**
 
 ---
 
@@ -86,7 +87,7 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 ## 🤝 Community
 
 - 🐧 &nbsp;**Lucknow FOSS Community** — Core Member, promoting open-source culture in tier-2 India
-- 🚀 &nbsp;**Google Developer Student Clubs (GDSC)** — Co-Lead at BBDNITM Lucknow
+- 🚀 &nbsp;**Google Developer Student Clubs (GDSC)** — Co-Lead at BBDNIIT Lucknow
 
 ---
 
