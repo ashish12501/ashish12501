@@ -28,8 +28,8 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 
 - 🔭 &nbsp;Actively looking for **SDE I / React / Full Stack roles** at product-based & SaaS companies
 - 📱 &nbsp;Currently building a personal **Expo Router** app with Clerk Auth, NativeWind & custom theming
-- 🎙️ &nbsp;Core Member — **FOSS United Lucknow** · Ex Co-Lead — **Google DSC BBDNIIT**
-- 🎓 &nbsp;B.Tech, Computer Science — **BBDNIIT Lucknow** (2020–2024)
+- 🎙️ &nbsp;Core Member : **FOSS United Lucknow** · Ex Co-Lead — **Google DSC BBDNIIT**
+- 🎓 &nbsp;B.Tech, Computer Science : **BBDNIIT Lucknow** (2020–2024)
 - ✍️ &nbsp;Write about React, React Native, and the JS ecosystem at [ashishcodes.hashnode.dev](https://ashishcodes.hashnode.dev/)
 - 📬 &nbsp;Reach me at **ay079396@gmail.com** · **ashish.yadav.sde@gmail.com**
 
@@ -39,6 +39,7 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,20 +47,52 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Salesforce LWC](https://img.shields.io/badge/Salesforce_LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### Backend & Infrastructure
+### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & Design
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience
+
+### Software Engineer — Revspire Technologies, Bengaluru
+`Jan 2024 – Mar 2026`
+
+> Building an enterprise SaaS **Revenue Enablement Platform** used by enterprise sales teams.
+
+- 📄 &nbsp;**Document Management System** — Architected MySQL schemas and REST APIs (Node.js/Express) for document storage & versioning; built the React.js frontend with a custom **E-Signature tool**, Git-style **Contract Review System**, and **WOPI protocol** integration for native Microsoft Office editing in-browser
+- 💰 &nbsp;**CPQ (Configure, Price, Quote) Calculator** — Implemented pricing logic, product configuration rules, and MySQL schema on the backend; exposed via REST APIs and consumed by a dynamic React frontend for automated enterprise quote generation
+- 🎥 &nbsp;**Real-time Collaboration** — Engineered React.js and React Native apps with live video/audio huddles, shared cursors, and multi-user interactions powered by **WebSocket + WebRTC (Mediasoup)** infrastructure
+- 📊 &nbsp;**Analytics Engine** — Designed normalized MySQL schemas and REST APIs tracking document engagement, user interactions, and activity timelines, surfaced through interactive React dashboard components
+- 🔧 &nbsp;**Microservices & Multi-tenancy** — Developed Node.js microservices for third-party integration routing; implemented license management with **RBAC** ensuring secure data isolation across tenants in a multi-tenant SaaS architecture
+- 🤝 &nbsp;Collaborated with product, design, and backend teams in an agile environment across sprint planning, code reviews, and full-stack technical discussions
+
+---
+
+## 🤝 Community
+
+- 🐧 &nbsp;**FOSS United Lucknow** — Core Team Member, organizing monthly developer meetups and annual open-source conferences
+- 🚀 &nbsp;**Google Developer Student Club (GDSC)** — Ex Co-Lead at BBDNIIT Lucknow, organizing technical workshops and hackathons
+- 🌐 &nbsp;**Google Developer Group (GDG) Lucknow** — Collaborator, supporting developer meetups and knowledge-sharing sessions
 
 ---
 
@@ -69,25 +102,9 @@ I'm a **Software Engineer with ~2 years of industry experience**, focused on bui
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish12501&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish12501&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashish12501&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-## 🏗️ What I've Built
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **Revenue Enablement Platform** | React, Node.js, MySQL, WebSockets, WebRTC (Mediasoup) | Enterprise SaaS · Real-time collaboration · Video infrastructure |
-| **Expo Router App** | React Native, Expo Router, Clerk Auth, NativeWind | Custom theming · Tab navigation · Auth flows |
-
----
-
-## 🤝 Community
-
-- 🐧 &nbsp;**Lucknow FOSS Community** — Core Member, promoting open-source culture in tier-2 India
-- 🚀 &nbsp;**Google Developer Student Clubs (GDSC)** — Co-Lead at BBDNIIT Lucknow
 
 ---
 
